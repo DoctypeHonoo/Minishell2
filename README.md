@@ -39,8 +39,8 @@ Quand aux fonctionnalités tels que les && et les || mais aussi le reste des bui
 
 Ouvrez un terminal et dirigez vous ou vous souhaitez que le projet soit installé, puis exécutez les commandes suivantes : 
 ```bash
-$ git clone git@github.com:EpitechPromo2026/B-PSU-210-MPL-2-1-minishell2-guillaume.lemoine.git
-$ cd B-PSU-210-MPL-2-1-minishell2-guillaume.lemoine
+$ git clone git@github.com:DoctypeHonoo/Minishell2.git
+$ cd Minishell2
 $ make
 ```
 Le binaire se trouvera alors à la racine du projet, et il vous suffira de le lancer comme ceci : 
